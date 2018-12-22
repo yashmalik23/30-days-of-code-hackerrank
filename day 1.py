@@ -1,0 +1,6 @@
+i+=int(input())
+d+=float(input())
+s+=input()
+print(i)
+print(d)
+print(s)
